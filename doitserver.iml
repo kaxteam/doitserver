@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="django" name="Django">
+      <configuration>
+        <option name="rootFolder" value="$MODULE_DIR$" />
+        <option name="settingsModule" value="DjangoAdminTemplate/settings.py" />
+        <option name="manageScript" value="manage.py" />
+        <option name="environment" value="&lt;map/&gt;" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_CONFIGURATION" value="Django" />
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$MODULE_DIR$/panel/static/flot/examples" />
+        <option value="$MODULE_DIR$/panel/static/flot/examples/ajax" />
+        <option value="$MODULE_DIR$/panel/static/flot/examples/image" />
+        <option value="$MODULE_DIR$/panel/static/flot/examples/canvas" />
+        <option value="$MODULE_DIR$/panel/static/flot/examples/resize" />
+        <option value="$MODULE_DIR$/panel/static/flot/examples/symbols" />
+        <option value="$MODULE_DIR$/panel/static/flot/examples/zooming" />
+        <option value="$MODULE_DIR$/panel/static/flot/examples/navigate" />
+        <option value="$MODULE_DIR$/panel/static/flot/examples/realtime" />
+        <option value="$MODULE_DIR$/panel/static/flot/examples/stacking" />
+        <option value="$MODULE_DIR$/panel/static/flot/examples/tracking" />
+        <option value="$MODULE_DIR$/panel/static/flot/examples/visitors" />
+        <option value="$MODULE_DIR$/panel/static/flot/examples/axes-time" />
+        <option value="$MODULE_DIR$/panel/static/flot/examples/selection" />
+        <option value="$MODULE_DIR$/panel/static/flot/examples/threshold" />
+        <option value="$MODULE_DIR$/panel/static/flot/examples/annotating" />
+        <option value="$MODULE_DIR$/panel/static/flot/examples/categories" />
+        <option value="$MODULE_DIR$/panel/static/flot/examples/series-pie" />
+        <option value="$MODULE_DIR$/panel/static/flot/examples/basic-usage" />
+        <option value="$MODULE_DIR$/panel/static/flot/examples/interacting" />
+        <option value="$MODULE_DIR$/panel/static/flot/examples/percentiles" />
+        <option value="$MODULE_DIR$/panel/static/flot/examples/series-types" />
+        <option value="$MODULE_DIR$/panel/static/flot/examples/axes-multiple" />
+        <option value="$MODULE_DIR$/panel/static/flot/examples/basic-options" />
+        <option value="$MODULE_DIR$/panel/static/flot/examples/series-toggle" />
+        <option value="$MODULE_DIR$/panel/static/flot/examples/axes-time-zones" />
+        <option value="$MODULE_DIR$/panel/static/flot/examples/axes-interacting" />
+        <option value="$MODULE_DIR$/panel/static/flot/examples/series-errorbars" />
+        <option value="$MODULE_DIR$/panel/static/holderjs/test" />
+        <option value="$MODULE_DIR$/panel/static/morrisjs/spec" />
+        <option value="$MODULE_DIR$/panel/static/morrisjs/spec/viz" />
+        <option value="$MODULE_DIR$/panel/static/morrisjs/examples" />
+        <option value="$MODULE_DIR$/panel/static/datatables-plugins/api" />
+        <option value="$MODULE_DIR$/panel/static/datatables-plugins/i18n" />
+        <option value="$MODULE_DIR$/panel/static/datatables-plugins/sorting" />
+        <option value="$MODULE_DIR$/panel/static/datatables-plugins/filtering" />
+        <option value="$MODULE_DIR$/panel/static/datatables-plugins/pagination" />
+        <option value="$MODULE_DIR$/panel/static/datatables-plugins/integration/jqueryui" />
+        <option value="$MODULE_DIR$/panel/static/datatables-plugins/integration/bootstrap/2" />
+        <option value="$MODULE_DIR$/panel/static/datatables-plugins/integration/bootstrap/3" />
+        <option value="$MODULE_DIR$/panel/static/datatables-plugins/integration/foundation" />
+        <option value="$MODULE_DIR$/panel/static/datatables-plugins/integration/font-awesome" />
+        <option value="$MODULE_DIR$/panel/static/datatables-plugins/type-detection" />
+        <option value="$MODULE_DIR$/panel/templates/base" />
+        <option value="$MODULE_DIR$/panel/templates/pages" />
+      </list>
+    </option>
+  </component>
+</module>
